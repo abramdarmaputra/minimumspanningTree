@@ -108,5 +108,3 @@ g.addEdge(2, 3, 4)
 
 # Function call
 g.KruskalMST()
-
-# This code is contributed by Neelam Yadav
