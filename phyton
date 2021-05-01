@@ -2,6 +2,8 @@
 # Minimum Spanning Tree of a given connected,
 # undirected and weighted graph
 
+from collections import defaultdict
+
 # Class to represent a graph
 
 
