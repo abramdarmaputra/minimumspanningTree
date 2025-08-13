@@ -51,6 +51,4 @@ Minimum Spanning Tree 19
 
 ## 📝 Lisensi
 
-```
 Proyek ini menggunakan lisensi **MIT**.
-```
